@@ -1,0 +1,6 @@
+@traveling_website_HostAddress = http://localhost:5093
+
+GET {{traveling_website_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
